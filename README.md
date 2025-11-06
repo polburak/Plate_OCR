@@ -18,7 +18,14 @@ A simple Python + EasyOCR / PaddleOCR project for detecting and reading vehicle 
 
 ## 🖼️ Screenshots
 
-![License Plate OCR](plates_labeled/car(1)_plate0.png)
+![License Plate OCR](plates_labeled/3.png)
+![License Plate OCR](plates_labeled/7.png)
+![License Plate OCR](plates_labeled/8.png)
+![License Plate OCR](plates_labeled/9.png)
+![License Plate OCR](plates_labeled/10.png)
+![License Plate OCR](plates_labeled/11.png)
+![License Plate OCR](plates_labeled/12.png)
+![License Plate OCR](plates_labeled/14.png)
 
 
 ---
